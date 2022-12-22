@@ -91,7 +91,7 @@ export default function Home() {
           <a
             href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
-            target="_blank"
+            target="_blank not that black by the way"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
