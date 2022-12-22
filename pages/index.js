@@ -84,7 +84,7 @@ export default function Home() {
               Learn <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Learn about Next.js in an interactive course with&nbsp;quizzes! With Naty Eneda and MElat engeda
+              Learn about Next.js in an interactive course with&nbsp;quizzes! With Naty Eneda and MElat engeda and me
             </p>
           </a>
 
